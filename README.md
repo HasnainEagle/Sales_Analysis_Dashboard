@@ -12,7 +12,6 @@ Functions Learned
 Features Learned
 
 1) How to create bins
-2) How to create parameters/dynamic visual based on slicer
 3) How to create Bookmark+Selection switch functionality
 5) Gauge with Target setting
 6) Learned Zoom slider
